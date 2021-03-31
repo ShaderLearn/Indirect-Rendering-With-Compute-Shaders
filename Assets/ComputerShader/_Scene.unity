@@ -267,8 +267,8 @@ MonoBehaviour:
   detailCullingPercentage: 0.005
   debugShowUI: 0
   debugDrawLOD: 0
+  debugDrawBoundsInSceneView: 0
   debugDrawHiZ: 0
-  debugDrawIndirectBounds: 0
   debugHiZLOD: 0
   debugUIPrefab: {fileID: 1573785215841776141, guid: 0a2641a9a8d324edf94453167d849fa8,
     type: 3}
@@ -25681,7 +25681,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 1
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0.5
   m_Range: 10
   m_SpotAngle: 30
